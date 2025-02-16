@@ -43,7 +43,7 @@ const Who = () => {
         <img
           src="https://sandbox-tailwind-template.netlify.app/assets/img/photos/about2@2x.jpg"
           alt="Our team"
-          className="w-64 md:w-80 rounded-lg shadow-lg absolute bottom-1.5 right-10  md:left-5 md:top-20 "
+          className="w-64 md:w-80 rounded-lg shadow-lg absolute bottom-1.5 right-10  md:left-5 md:top-20 hidden sm:block"
         />
       </div>
     </section>

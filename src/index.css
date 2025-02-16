@@ -1,0 +1,13 @@
+@import "tailwindcss";
+.home{
+  background-image: url(https://sandbox-tailwind-template.netlify.app/assets/img/photos/bg8.jpg);
+}
+
+  .test{
+    clip-path: polygon(0 18%, 100% 0, 100% 100%, 0% 100%);
+  }
+
+  .stats{
+    clip-path: polygon(0 1%, 100% 0, 99% 83%, 0 100%);
+
+  }

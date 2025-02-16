@@ -1,5 +1,4 @@
 import React from "react";
-import { Carousel } from "react-responsive-carousel";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css/pagination';
